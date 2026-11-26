@@ -258,3 +258,8 @@ Add battery monitoring hardware if runtime and low-battery alerts are needed.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Contributors
+
+- Vedas Rasmal — https://github.com/vedasrasmal
+- Vedant Vijay Gadekar — https://github.com/vedant04-08
