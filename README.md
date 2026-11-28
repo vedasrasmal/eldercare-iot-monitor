@@ -261,5 +261,5 @@ MIT — see [LICENSE](LICENSE).
 
 ## Contributors
 
-- Vedas Rasmal — https://github.com/vedasrasmal
-- Vedant Vijay Gadekar — https://github.com/vedant04-08
+- [Vedas Rasmal](https://github.com/vedasrasmal)
+- [Vedant Vijay Gadekar](https://github.com/vedant04-08)
